@@ -3,7 +3,7 @@
 
 # Noob
 
-I hereby declare that I have just begun this adventure.
+This repo functions as a sandbox for now.
 
-Go easy on me.
+I am preparing to do bigger and better things.
 
