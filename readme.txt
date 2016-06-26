@@ -10,4 +10,6 @@ line05: a new day
 
 line06: the day is not over yet
 
+line07: still kicking ...
+
 endoffile
