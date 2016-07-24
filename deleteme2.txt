@@ -1,1 +1,5 @@
 New file contents.
+
+deleteme2
+
+line 5
