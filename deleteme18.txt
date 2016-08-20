@@ -1,0 +1,8 @@
+delete me, trial #18
+line two
+line three
+line four
+
+(line five was skipped)
+line seven
+...

@@ -1,5 +1,9 @@
 New file contents.
+<<<<<<< HEAD
 
 deleteme2
 
 line 5
+=======
+Trial #2.
+>>>>>>> origin/gh-pages
