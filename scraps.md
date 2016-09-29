@@ -1,5 +1,3 @@
-
-
 https://github.com/git/git/
 http://sourceforge.net/projects/git-osx-installer/files/?source=navbar
 
@@ -10,3 +8,6 @@ http://sourceforge.net/projects/git-osx-installer/files/?source=navbar
 4. Either add `/usr/local/git/bin` to your PATH or use an alias (`alias gitk='/usr/local/git/bin/gitk'`)
 
 http://stackoverflow.com/questions/17582685/install-gitk-on-mac
+
+
+[ to be cont. ... ]
